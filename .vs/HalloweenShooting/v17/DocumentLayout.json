@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\assets\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|c:\\users\\arsen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\projects\\halloweenshooting\\assets\\sazengames\\skeleton\\scripts\\animationreplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\sazengames\\skeleton\\scripts\\animationreplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|c:\\users\\arsen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\projects\\halloweenshooting\\assets\\sazengames\\skeleton\\scripts\\simplecameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\sazengames\\skeleton\\scripts\\simplecameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|c:\\users\\arsen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\projects\\halloweenshooting\\assets\\scripts\\fpinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fpinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\assets\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimationReplayer.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\SazenGames\\Skeleton\\Scripts\\AnimationReplayer.cs",
+              "RelativeDocumentMoniker": "Assets\\SazenGames\\Skeleton\\Scripts\\AnimationReplayer.cs",
+              "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\SazenGames\\Skeleton\\Scripts\\AnimationReplayer.cs",
+              "RelativeToolTip": "Assets\\SazenGames\\Skeleton\\Scripts\\AnimationReplayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:18:53.178Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -47,25 +68,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SimpleCameraController.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\SazenGames\\Skeleton\\Scripts\\SimpleCameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\SazenGames\\Skeleton\\Scripts\\SimpleCameraController.cs",
+              "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\SazenGames\\Skeleton\\Scripts\\SimpleCameraController.cs",
+              "RelativeToolTip": "Assets\\SazenGames\\Skeleton\\Scripts\\SimpleCameraController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:18:47.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FPInputHandler.cs",
               "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\FPInputHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FPInputHandler.cs",
               "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\FPInputHandler.cs",
               "RelativeToolTip": "Assets\\Scripts\\FPInputHandler.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T12:06:53.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PlayerInput.cs",
               "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\PlayerInput.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInput.cs",
               "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\PlayerInput.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerInput.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T12:06:49.668Z",
               "EditorCaption": ""

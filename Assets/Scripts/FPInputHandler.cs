@@ -1,7 +1,7 @@
 using Unity.Cinemachine;
 using UnityEngine;
 
-namespace Input
+namespace PlayerInput
 {
     public class FPInputHandler : MonoBehaviour
     {
