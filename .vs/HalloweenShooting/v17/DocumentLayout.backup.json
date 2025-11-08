@@ -3,12 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\assets\\scripts\\installers\\initplayerinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\installers\\initplayerinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\assets\\scripts\\factory\\iabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\factory\\iabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\assets\\scripts\\factory\\enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\factory\\enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\assets\\scripts\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\assets\\scripts\\factory\\ipool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\factory\\ipool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\assets\\scripts\\installers\\poolinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\installers\\poolinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|c:\\users\\arsen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\projects\\halloweenshooting\\assets\\resources\\configs\\poolconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\configs\\poolconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\assets\\scripts\\factory\\enemytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\factory\\enemytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|c:\\users\\arsen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\projects\\halloweenshooting\\assets\\scripts\\factory\\enemypool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\factory\\enemypool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\assets\\scripts\\installers\\factoryinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\installers\\factoryinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\assets\\scripts\\installers\\bootstrapinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\installers\\bootstrapinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\assets\\scripts\\fpinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fpinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|c:\\users\\arsen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\projects\\halloweenshooting\\assets\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\assets\\scripts\\playerinputreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7059CE-DC9C-0B02-539B-C7F9317826E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinputreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +62,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 14,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PoolConfig.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Resources\\Configs\\PoolConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Configs\\PoolConfig.cs",
+              "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Resources\\Configs\\PoolConfig.cs",
+              "RelativeToolTip": "Assets\\Resources\\Configs\\PoolConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T10:23:40.725Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -46,29 +103,155 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FPInputHandler.cs",
-              "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\FPInputHandler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FPInputHandler.cs",
-              "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\FPInputHandler.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FPInputHandler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwIwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "PoolInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Installers\\PoolInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Installers\\PoolInstaller.cs",
+              "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Installers\\PoolInstaller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Installers\\PoolInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T12:06:53.644Z",
+              "WhenOpened": "2025-11-08T09:56:53.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPool.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Factory\\IPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Factory\\IPool.cs",
+              "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Factory\\IPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Factory\\IPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:05:52.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyPool.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Factory\\EnemyPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Factory\\EnemyPool.cs",
+              "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Factory\\EnemyPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Factory\\EnemyPool.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:05:14.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bootstrap.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Bootstrap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bootstrap.cs",
+              "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Bootstrap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bootstrap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:07:27.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Factory\\EnemyFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Factory\\EnemyFactory.cs",
+              "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Factory\\EnemyFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Factory\\EnemyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:05:27.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PlayerInput.cs",
-              "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\PlayerInput.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInput.cs",
-              "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\PlayerInput.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Title": "IAbstractFactory.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Factory\\IAbstractFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Factory\\IAbstractFactory.cs",
+              "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Factory\\IAbstractFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Factory\\IAbstractFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T12:06:49.668Z",
+              "WhenOpened": "2025-11-07T18:47:23.003Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyType.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Factory\\EnemyType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Factory\\EnemyType.cs",
+              "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Factory\\EnemyType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Factory\\EnemyType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:47:17.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InitPlayerInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Installers\\InitPlayerInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Installers\\InitPlayerInstaller.cs",
+              "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Installers\\InitPlayerInstaller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Installers\\InitPlayerInstaller.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T16:23:01.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FactoryInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Installers\\FactoryInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Installers\\FactoryInstaller.cs",
+              "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Installers\\FactoryInstaller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Installers\\FactoryInstaller.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T08:13:27.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BootstrapInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Installers\\BootstrapInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Installers\\BootstrapInstaller.cs",
+              "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\Installers\\BootstrapInstaller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Installers\\BootstrapInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T16:37:52.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FPInputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\FPInputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FPInputHandler.cs",
+              "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\FPInputHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FPInputHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T12:06:53.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerInputReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\PlayerInputReceiver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInputReceiver.cs",
+              "ToolTip": "C:\\Users\\arsen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\unity\\Projects\\HalloweenShooting\\Assets\\Scripts\\PlayerInputReceiver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInputReceiver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T12:06:49.668Z"
             }
           ]
         }

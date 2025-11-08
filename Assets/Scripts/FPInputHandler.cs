@@ -1,17 +1,18 @@
 using Unity.Cinemachine;
 using UnityEngine;
+using Zenject;
 
-namespace PlayerInput
+namespace GameInput
 {
     public class FPInputHandler : MonoBehaviour
     {
         [Header("Components")]
-        [SerializeField] private PlayerInput _playerInput;
         [SerializeField] private CinemachineCamera _firstPersonCamera;
         [SerializeField] private CharacterController _controller;
+        [SerializeField] private PlayerInputReceiver _playerInput;
         
         [Header("MovementParameters")]
-        [SerializeField] private float _acceleration = 15f;
+        [SerializeField] private float _acceleration = 20f;
         [SerializeField] private float _walkSpeed = 3.5f;
         [SerializeField] private float _sprintSpeed = 8f;
 
@@ -21,11 +22,11 @@ namespace PlayerInput
 
         [Header("CameraParameters")]
         [SerializeField] private float _cameraNormalFOV = 60f;
-        [SerializeField] private float _cameraSprintFOV = 80f;
-        [SerializeField] private float _cameraFOVSmoothing = 1f;
+        [SerializeField] private float _cameraSprintFOV = 70f;
+        [SerializeField] private float _cameraFOVSmoothing = 3f;
 
         [Header("PhysicsParameters")]
-        [SerializeField] private float _gravityScale = 1f;
+        [SerializeField] private float _gravityScale = 3f;
         [SerializeField] private float _jumpHeight = 2f;
         [SerializeField] private float _verticalVelocity = -3f;
 
