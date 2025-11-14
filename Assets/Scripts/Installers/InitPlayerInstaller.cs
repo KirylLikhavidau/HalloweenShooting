@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using Zenject;
 using GameInput;
+using Zenject.SpaceFighter;
 
 namespace Infrastructure
 {
@@ -22,9 +23,19 @@ namespace Infrastructure
                 .FromInstance(this);
         }
 
+        private void BindPlayer(FPInputHandler instance)
+        {
+            Container
+                .Bind<FPInputHandler>()
+                .FromInstance(instance)
+                .AsSingle();
+        }
+
         public void Initialize()
         {
-            GameObject player = Container.InstantiatePrefab(_playerPrefab, _startPoint.position, _startPoint.rotation, null);
+            FPInputHandler player = Container.InstantiatePrefabForComponent<FPInputHandler>(_playerPrefab, _startPoint.position, _startPoint.rotation, null);
+            
+            BindPlayer(player);
         }
     }
 }

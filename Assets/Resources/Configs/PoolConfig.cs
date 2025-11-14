@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using Enemies;
+using UnityEngine;
 
 namespace Configs
 {
@@ -6,6 +7,6 @@ namespace Configs
     public class PoolConfig : ScriptableObject
     {
         [field: SerializeField] public GameObject PoolContainer {  get; private set; }
-        [field: SerializeField] public int StartNumberOfObjects {  get; private set; }
+        [field: SerializeField] public Skeleton SkeletonPrefab { get; private set; }
     }
 }

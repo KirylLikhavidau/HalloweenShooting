@@ -1,21 +1,25 @@
-﻿using UnityEngine;
+﻿using Configs;
+using Enemies;
+using Pool;
+using UnityEngine;
 using Zenject;
 
 namespace Factory
 {
-    public class EnemyFactory : IAbstractFactory
+    public class EnemyFactory : IAbstractFactory, IInitializable
     {
-        private IPool<EnemyType> _enemyPool;
+        private SkeletonPool _skeletonPool;
+        private GameObject _enemyContainer;
 
-        [Inject]
-        private void Construct(IPool<EnemyType> pool)
+        private EnemyFactory(SkeletonPool pool, PoolConfig poolConfig)
         {
-            _enemyPool = pool;
+            _skeletonPool = pool;
+            _enemyContainer = poolConfig.PoolContainer;
         }
 
-        public void Load()
+        public void Initialize()
         {
-            _enemyPool.Load();
+            _enemyContainer = GameObject.Instantiate(_enemyContainer);
         }
 
         public void Create(EnemyType type, Vector3 at)
@@ -23,10 +27,13 @@ namespace Factory
             switch (type)
             {
                 case EnemyType.Skeleton:
-                    GameObject obj = _enemyPool.GetObject(EnemyType.Skeleton);
-                    obj.transform.position = at;
+                    Skeleton skeleton = _skeletonPool.Spawn();
+                    skeleton.transform.position = at;
+                    skeleton.transform.SetParent(_enemyContainer.transform, true);
+                    skeleton.Init();
                     break;
             }
         }
+
     }
 }

@@ -13,9 +13,9 @@ namespace Infrastructure
         private void BindFactory()
         {
             Container
-                .Bind<IAbstractFactory>()
-                .To<EnemyFactory>()
-                .AsSingle();
+                .BindInterfacesAndSelfTo<EnemyFactory>()
+                .AsSingle()
+                .NonLazy();
         }
     }
 }

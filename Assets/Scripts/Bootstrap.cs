@@ -1,4 +1,5 @@
-﻿using Factory;
+﻿using Enemies;
+using Factory;
 using UnityEngine;
 using Zenject;
 
@@ -21,7 +22,6 @@ namespace Bootstrap
             Cursor.visible = false;
             Cursor.lockState = CursorLockMode.Locked;
 
-            _enemyFactory.Load();
             _enemyFactory.Create(EnemyType.Skeleton, _spawnPoint.position);
         }
     }
